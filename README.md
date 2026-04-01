@@ -2,7 +2,7 @@
 
 ## Team Name
 <!-- Replace with your team name -->
-Team _______
+Team LION SUN
 
 ## Team Members
 
