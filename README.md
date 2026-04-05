@@ -6,11 +6,11 @@ Team LION SUN
 
 ## Team Members
 
-| Member | Vulnerability Found | Branch Name |
-|--------|-------------------|-------------|
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| Member             | Vulnerability Found | Branch Name |
+|--------------------|---------------------|-------------|
+| Ghazaleh AzimiKorf | Still waiting       | Ghazaleh    |
+| Mina Fahim         | dns.0x10.cloud      | mina_fahim  |
+| Kiana Sepasian     | Still waiting       | Kiana       |
 
 ## Videos
 
@@ -52,3 +52,4 @@ time.sleep(0.15)  # wait 150ms between requests
 - **Python standard library only** — `socket`, `urllib`, `ssl`, `json`, `base64`, `time`. No pip packages.
 - **Only scan `*.0x10.cloud`** — do not scan any other domain.
 - **Respect the rate limit** — 10 requests/second max.
+
