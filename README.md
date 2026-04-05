@@ -6,11 +6,11 @@ Team LION SUN
 
 ## Team Members
 
-| Member | Vulnerability Found | Branch Name |
-|--------|-------------------|-------------|
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
+|            Member          | Vulnerability Found | Branch Name |
+
+|      Ghazaleh AzimiKorf    |           |   Ghazaleh  |
+|         Mina Fahim         |           | Mina_Fahim  |
+|       Kiana Sepasian       |           |   Kiana     |
 
 ## Videos
 
