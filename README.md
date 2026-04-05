@@ -8,9 +8,9 @@ Team LION SUN
 
 |            Member          | Vulnerability Found | Branch Name |
 
-|      Ghazaleh AzimiKorf    |           |   Ghazaleh  |
-|         Mina Fahim         |           | Mina_Fahim  |
-|       Kiana Sepasian       |           |   Kiana     |
+|      Ghazaleh AzimiKorf    |    still waiting      |   Ghazaleh  |
+|         Mina Fahim         |       dns.0x10.cloud   | Mina_Fahim  |
+|       Kiana Sepasian       |       still waiting      |   Kiana     |
 
 ## Videos
 
