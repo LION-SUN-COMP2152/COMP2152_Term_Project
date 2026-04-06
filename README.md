@@ -10,7 +10,7 @@ Team LION SUN
 |--------------------|---------------------|-------------|
 | Ghazaleh AzimiKorf | upload.0x10.cloud   | Ghazaleh    |
 | Mina Fahim         | dns.0x10.cloud      | mina_fahim  |
-| Kiana Sepasian     | Still waiting       | Kiana       |
+| Kiana Sepasian     | api.0x10.cloud      | Kiana       |
 | Kamand Rosrami     | Still waiting       | Kamand      |
 | Ashkan pazaj       | Still waiting       | Ashkan      |
 
