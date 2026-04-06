@@ -8,9 +8,11 @@ Team LION SUN
 
 | Member             | Vulnerability Found | Branch Name |
 |--------------------|---------------------|-------------|
-| Ghazaleh AzimiKorf | Still waiting       | Ghazaleh    |
+| Ghazaleh AzimiKorf | upload.0x10.cloud   | Ghazaleh    |
 | Mina Fahim         | dns.0x10.cloud      | mina_fahim  |
 | Kiana Sepasian     | Still waiting       | Kiana       |
+| Kamand Rosrami     | Still waiting       | Kamand      |
+| Ashkan pazaj       | Still waiting       | Ashkan      |
 
 ## Videos
 
@@ -19,6 +21,9 @@ Each team member records a short video (max 3 minutes) explaining their vulnerab
 - Member 1: https://youtube.com/watch?v=_______
 - Member 2: https://youtube.com/watch?v=_______
 - Member 3: https://youtube.com/watch?v=_______
+- Member 4: https://youtube.com/watch?v=_______
+- Member 5: https://youtube.com/watch?v=_______
+
 
 ## Target
 
