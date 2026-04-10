@@ -11,8 +11,8 @@ Team Lion and Sun
 | Ghazaleh AzimiKorf | upload.0x10.cloud   | Ghazaleh    |
 | Mina Fahim         | dns.0x10.cloud      | mina_fahim  |
 | Kiana Sepasian     | api.0x10.cloud      | Kiana       |
-| Kamand Rosrami     | Still waiting       | Kamand      |
-| Ashkan pazaj       | Still waiting       | Ashkan      |
+| Kamand Rosrami     | login.0x10.cloud    | Kamand      |
+| Ashkan pazaj       | backup.0x10.cloud   | Ashkan      |
 
 ## Videos
 
