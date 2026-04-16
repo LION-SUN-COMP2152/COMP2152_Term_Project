@@ -9,7 +9,7 @@ import os
 
 scripts = [
     "ghazaleh_upload.py",
-    "example_port_check.py",
+    "mina_internal_dns_records_exposure.py",
     "example_header_check.py",
 ]
 
