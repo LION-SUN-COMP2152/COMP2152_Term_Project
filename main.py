@@ -8,7 +8,7 @@ import sys
 import os
 
 scripts = [
-    "example_http_check.py",
+    "ghazaleh_upload.py",
     "example_port_check.py",
     "example_header_check.py",
 ]
