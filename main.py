@@ -12,6 +12,8 @@ scripts = [
     "mina_internal_dns_records_exposure.py",
     "Ashkan_backup_server.py",
     " Kamand_login.py",
+    "KianaSepasian_IDOR_API_Leak.py",
+  
    
 ]
 
