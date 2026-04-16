@@ -10,7 +10,7 @@ import os
 scripts = [
     "ghazaleh_upload.py",
     "mina_internal_dns_records_exposure.py",
-    "example_header_check.py",
+    "Ashkan_backup_server.py",
 ]
 
 if __name__ == "__main__":
