@@ -11,6 +11,8 @@ scripts = [
     "ghazaleh_upload.py",
     "mina_internal_dns_records_exposure.py",
     "Ashkan_backup_server.py",
+    " Kamand_login.py",
+   
 ]
 
 if __name__ == "__main__":
