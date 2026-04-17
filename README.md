@@ -20,10 +20,10 @@ Team Lion and Sun
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Member 1: https://youtube.com/watch?v=**\_\_\_**
+- Member 1 (Ghazaleh AzimIKorf) : https://youtu.be/3YPUAFF3crQ?si=SYEkcHvzDeu-FOKt
 - Member 2: https://youtube.com/watch?v=**\_\_\_**
 - Member 3: https://youtube.com/watch?v=**\_\_\_**
-- Member 4: https://youtu.be/bErkrb6A8go
+- Member 4 (Kamand Rosrami): https://youtu.be/bErkrb6A8go
 - Member 5: https://youtu.be/ASlvKn2BQUU
 
 ## Target
