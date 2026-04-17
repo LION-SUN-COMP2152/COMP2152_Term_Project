@@ -22,7 +22,7 @@ Each team member records a short video (max 3 minutes) explaining their vulnerab
 
 - Member 1 (Ghazaleh AzimIKorf) : https://youtu.be/3YPUAFF3crQ?si=SYEkcHvzDeu-FOKt
 - Member 2 (Mina Fahim): https://youtu.be/Ef-EFDNpns8
-- Member 3 (Kiana Sepasian): https://youtu.be/w40Y22gmvuQ
+- Member 3 (Kiana Sepasian): https://youtu.be/WhMEBcWo7FM
 - Member 4 (Kamand Rosrami): https://youtu.be/bErkrb6A8go
 - Member 5 (Ashkan Pazj): https://youtu.be/ASlvKn2BQUU
 
