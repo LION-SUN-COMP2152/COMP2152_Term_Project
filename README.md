@@ -24,7 +24,7 @@ Each team member records a short video (max 3 minutes) explaining their vulnerab
 - Member 2 (Mina Fahim): https://youtu.be/Ef-EFDNpns8
 - Member 3: https://youtube.com/watch?v=**\_\_\_**
 - Member 4 (Kamand Rosrami): https://youtu.be/bErkrb6A8go
-- Member 5:(Ashkan Pazj) https://youtu.be/ASlvKn2BQUU
+- Member 5 (Ashkan Pazj): https://youtu.be/ASlvKn2BQUU
 
 ## Target
 
