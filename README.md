@@ -1,13 +1,15 @@
 # COMP2152 — Term Project: CTF Bug Bounty
 
 ## Team Name
+
 <!-- Replace with your team name -->
-Team Lion and Sun 
+
+Team Lion and Sun
 
 ## Team Members
 
 | Member             | Vulnerability Found | Branch Name |
-|--------------------|---------------------|-------------|
+| ------------------ | ------------------- | ----------- |
 | Ghazaleh AzimiKorf | upload.0x10.cloud   | Ghazaleh    |
 | Mina Fahim         | dns.0x10.cloud      | mina_fahim  |
 | Kiana Sepasian     | api.0x10.cloud      | Kiana       |
@@ -18,12 +20,11 @@ Team Lion and Sun
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Member 1: https://youtube.com/watch?v=_______
-- Member 2: https://youtube.com/watch?v=_______
-- Member 3: https://youtube.com/watch?v=_______
-- Member 4: https://youtube.com/watch?v=_______
-- Member 5: https://youtube.com/watch?v=_______
-
+- Member 1: https://youtube.com/watch?v=**\_\_\_**
+- Member 2: https://youtube.com/watch?v=**\_\_\_**
+- Member 3: https://youtube.com/watch?v=**\_\_\_**
+- Member 4: https://youtube.com/watch?v=**\_\_\_**
+- Member 5: https://youtu.be/ASlvKn2BQUU
 
 ## Target
 
